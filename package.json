@@ -1,8 +1,9 @@
 {
 	"name":"d-armstrong-01-test",
+	"description":"node test",
 	"version":"0.0.1",
-	"dependinces":{
+	"dependinces": {
 		"express":"latest",
-		"request":"latest",
+		"request":"latest"
 	}
 }
