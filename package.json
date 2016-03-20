@@ -1,0 +1,8 @@
+{
+	"name":"d-armstrong-01-test",
+	"version":"0.0.1",
+	"dependinces":{
+		"express":"latest",
+		"request":"latest",
+	}
+}
